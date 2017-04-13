@@ -1,0 +1,218 @@
+*{
+  font-family: 'Lato', sans-serif;
+  margin:0;
+  padding:0;
+  }
+nav{
+  height: 40px;
+
+  margin :0 80px
+}
+.top span {
+  float: left;
+  font-size: 18px;
+  font-weight: bold;
+  color: #464646;
+  padding:12px 10px 10px 0;
+
+
+}
+.navbar ul{
+  margin-right:85px;
+  padding:15px;
+}
+.navbar li{
+  float: right;
+
+  display: inline-block;
+  margin-right: 3px;
+
+}
+.navbar span{
+  font-size: 15px;
+  color:#8c807a;
+}
+header {
+/* To align all elements in the center   */
+	margin: 0 auto;
+	text-align: center;
+  /*With this we make sure that the element use the half of the window putting the same blank space in both sides*/
+	width: 50%;
+}
+
+.heads{
+  width: 100%;
+}
+.pic img{
+  /*To round the image*/
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+.heads h2{
+  font-size: 17px;
+  font-weight: lighter;
+}
+.heads p{
+  color: #242424;
+	font-family: 'Lora', serif;
+	font-size: 65px;
+	letter-spacing: -1px;
+	line-height: 60px;
+	font-weight:bold;
+}
+ .heads h4{
+   margin: 50px 0 40px 0;
+   font-size: 22px;
+   color:#5f5f5f;
+   font-weight: lighter;
+ }
+ hr{
+	margin:0 auto;
+	width:90px;
+  border: 1px solid #c79852;
+
+}
+.info1 p{
+	padding-top:40px;
+  text-align:left;
+  padding-left:22%;
+  font-size:18px;
+  line-height:35px;
+  color:#565656;
+}
+.info1 img{
+  padding-top:2%;
+  padding-left: 14%;
+  text-align: center;
+  width: 73%;
+}
+
+.quote p{
+  font-family: 'Petit Formal Script', cursive;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 36px;
+  text-align: center;
+  width: 60%
+}
+
+.images img{
+  width: 35%;
+  height: 35%;
+  padding-left: 17%;
+  margin:0;
+}
+
+
+.images2 .allen{
+	  margin:0;
+ 	  width: 35%;
+    height: 35%;
+    padding-top: 0px;
+    padding-left:130px;
+
+}
+
+.images2 .legs {
+	width:35%;
+	height:35%;
+	float:right;
+	padding-left:0;
+  padding-top: 5px;
+	margin-right:248px;
+}
+
+.bottom p{
+  padding-top: 3px;
+  padding-bottom: 25px;
+}
+
+.likes {
+  padding-top: 35px;
+  text-align: center;
+
+}
+
+.likes .fa-heart{
+  color:#e04f4a;
+}
+
+.likes li{
+  font-size: 18px;
+  color:#565656;
+  display: inline-block;
+}
+
+.comment {
+  text-align: center;
+  padding-top: 0px;
+
+}
+.comment textarea{
+  border-radius: 10px;
+  border: 1px solid #f0f0f0;
+  padding: 10px;
+  border-top: 2px solid #f0f0f0;
+  width: 60%;
+  height:90px;
+  font-size: 16px;
+
+}
+.links ul{
+  width:100%;
+  margin:0;
+
+
+
+  list-style: none;
+}
+.links li{
+  display: inline-block;
+  padding-left: 5px;
+}
+.links a{
+  text-decoration: none;
+  color:#565656;
+  font-size: 14px;
+}
+.links button{
+  border:none;
+  color:#565656;
+  background-color: white;
+  padding-left:470px;
+}
+footer{
+  background-color: #F8F9FD;
+  text-align: center;
+  margin-top:px
+  height:150px;
+
+
+}
+footer a{
+  color:#434345;
+  line-height: 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+
+
+}
+.left ul{
+  list-style: none;
+  float: left;
+  text-align: left;
+  padding: 55px;
+  margin-top:25px;
+  margin-left:200px;
+}
+.right ul {
+  list-style: none;
+  padding: 55px;
+  text-align: right;
+  padding-top:80px;
+  margin-top:60px;
+  margin-right: 200px;
+  height:150px
+}
